@@ -395,11 +395,11 @@
     <WaveFolder />
   </PreferenceInfo>
   <AudioInfo>
-    <AudioDevice>Primary Sound Driver</AudioDevice>
+    <AudioDevice>Speakers (MOONDROP Moonriver2 Ti)</AudioDevice>
     <EnableAudio>true</EnableAudio>
     <DisableDynamicSampleRate>false</DisableDynamicSampleRate>
     <AudioLatency>60</AudioLatency>
-    <MasterVolume>3</MasterVolume>
+    <MasterVolume>100</MasterVolume>
     <Square1Volume>100</Square1Volume>
     <Square2Volume>100</Square2Volume>
     <TriangleVolume>100</TriangleVolume>
@@ -423,10 +423,10 @@
     <Namco163Panning>0</Namco163Panning>
     <Sunsoft5bPanning>0</Sunsoft5bPanning>
     <SampleRate>48000</SampleRate>
-    <ReduceSoundInBackground>true</ReduceSoundInBackground>
+    <ReduceSoundInBackground>false</ReduceSoundInBackground>
     <ReduceSoundInFastForward>true</ReduceSoundInFastForward>
     <VolumeReduction>27</VolumeReduction>
-    <MuteSoundInBackground>true</MuteSoundInBackground>
+    <MuteSoundInBackground>false</MuteSoundInBackground>
     <SwapDutyCycles>false</SwapDutyCycles>
     <SilenceTriangleHighFreq>false</SilenceTriangleHighFreq>
     <ReduceDmcPopping>false</ReduceDmcPopping>
@@ -1912,12 +1912,12 @@
   </HistoryViewerInfo>
   <GameSpecificSettings />
   <WindowLocation>
-    <X>902</X>
-    <Y>57</Y>
+    <X>529</X>
+    <Y>113</Y>
   </WindowLocation>
   <WindowSize>
-    <Width>994</Width>
-    <Height>990</Height>
+    <Width>992</Width>
+    <Height>978</Height>
   </WindowSize>
   <CheatWindowLocation>
     <X>0</X>

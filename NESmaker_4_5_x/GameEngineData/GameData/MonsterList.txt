@@ -1,5 +1,5 @@
 ;; *************** MonsterList.txt ***************
-;; Monster list export. February 21, 2025 9:27:59 PM
+;; Monster list export. Saturday, February 22, 2025 12:59:14 AM
 
 ;;;; 0	GameItem: Player ID=0
 ;;;; 1	GameItem: ProjectileWeapon ID=1
