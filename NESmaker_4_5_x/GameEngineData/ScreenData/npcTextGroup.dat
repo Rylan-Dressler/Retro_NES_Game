@@ -1,4 +1,4 @@
-;;;;;;;;;;;;;Text Group export info: 2/22/2025 12:59:13 AM
+;;;;;;;;;;;;;Text Group export info: 3/3/2025 8:44:23 AM
 TextGroup0:    ;;;;; GetSwordGroup
 	.db #$00, #$00, #$00, #$00 
 
