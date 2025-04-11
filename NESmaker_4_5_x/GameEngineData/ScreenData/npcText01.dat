@@ -1,4 +1,4 @@
-;;;;;;;;;;;;;Text export info: 3/24/2025 1:22:09 PM
+;;;;;;;;;;;;;Text export info: 4/11/2025 2:50:46 AM
 Text0:    ;;;;; Give Sword
   .db _I, _T, _SPACE, _I, _S, _SPACE, _D, _A, _N, _G, _E, _R, _O, _U, _S, _SPACE, _T, _O, _SPACE, _B, _E, _BREAK
   .db _C, _O, _P, _Y, _R, _I, _G, _H, _T, _E, _D, _SPACE, _B, _Y, _SPACE, _N, _I, _N, _T, _E, _N, _D, _O, _PERIOD, _BREAK

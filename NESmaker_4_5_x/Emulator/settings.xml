@@ -471,7 +471,7 @@
     <OverscanRight>0</OverscanRight>
     <OverscanTop>0</OverscanTop>
     <OverscanBottom>0</OverscanBottom>
-    <VideoScale>3.8125</VideoScale>
+    <VideoScale>4.7416666666666663</VideoScale>
     <VideoFilter>None</VideoFilter>
     <UseBilinearInterpolation>false</UseBilinearInterpolation>
     <AspectRatio>NoStretching</AspectRatio>
@@ -1912,12 +1912,12 @@
   </HistoryViewerInfo>
   <GameSpecificSettings />
   <WindowLocation>
-    <X>1258</X>
-    <Y>156</Y>
+    <X>483</X>
+    <Y>135</Y>
   </WindowLocation>
   <WindowSize>
-    <Width>994</Width>
-    <Height>990</Height>
+    <Width>1231</Width>
+    <Height>1213</Height>
   </WindowSize>
   <CheatWindowLocation>
     <X>0</X>

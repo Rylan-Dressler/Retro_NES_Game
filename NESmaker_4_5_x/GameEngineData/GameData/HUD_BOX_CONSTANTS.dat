@@ -1,14 +1,14 @@
 ;; *************** HUD_BOX_CONSTANTS.dat ***************
-;; HUD Constants export. Monday, March 24, 2025 1:22:09 PM
+;; HUD Constants export. Friday, April 11, 2025 2:50:46 AM
 BOUNDS_LEFT  = $00
 BOUNDS_RIGHT  = $ff
-BOUNDS_TOP     = $20
+BOUNDS_TOP     = $00
 BOUNDS_BOTTOM    = $f0
 
 BOX_0_ORIGIN_X  = $00
 BOX_0_ORIGIN_Y  = $00
 BOX_0_WIDTH     = $10
-BOX_0_HEIGHT    = $02
+BOX_0_HEIGHT    = $03
 
 BOX_1_ORIGIN_X  = $02
 BOX_1_ORIGIN_Y  = $04
